@@ -1,0 +1,10 @@
+
+# Dependencies and secrets
+**/node_modules/
+**/.env
+**/.env.*
+!.env.example
+**/target/
+**/dist/
+
+**/.vscode/
